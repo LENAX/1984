@@ -1,2 +1,2 @@
 # 1984
-An illegal content filter using Machine Learning
+A sensitive content filter using Machine Learning
